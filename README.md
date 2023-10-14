@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://www.pinterest.com/pin/346143921370075872/)]
 <h1 align="center">
 Hola, I'm Gopi Chowdam</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
