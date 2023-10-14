@@ -20,8 +20,6 @@ Hola, I'm Gopi Chowdam</h1>
   
 - 🎒 I've done almost .. internships in frontend primarily.
   
-- 👩🏻‍🏫 I love teaching students and have mentored across ... students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
-
 - 🌱 I’m currently learning **React,springboot**
 
 - 👯 I’m looking to collaborate on [https://bit.ly/GopiResume](Mern Stack)
@@ -41,6 +39,8 @@ Hola, I'm Gopi Chowdam</h1>
 - 📄 Know about my experiences [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
 
 - ⚡ Fun fact **I Love To Code**
+  
+- 👩🏻‍🏫 I love teaching students and have mentored across ... students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
 
 
 
