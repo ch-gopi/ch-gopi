@@ -12,11 +12,23 @@ Hola, I'm Gopi Chowdam</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
+- 👩🏻‍💻 Pronouns: he/Him
+
 - 🔭 I’m currently working on [https://bit.ly/GopiResume](MERN Stack)
+  
+- 💼 I’m currently working as a Frontend Engineer at ....
+  
+- 📋 I've previously worked as a Software Engineer at ..and an MTS at ....
+  
+- 🎒 I've done almost .. internships in frontend primarily.
+  
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to           create a Swiggy Clone.
 
 - 🌱 I’m currently learning **React,springboot**
 
 - 👯 I’m looking to collaborate on [https://bit.ly/GopiResume](Mern Stack)
+  
+- 🧭 I love exploring and working both in frontend and backend.
 
 - 🤝 I’m looking for help with [https://bit.ly/GopiResume](React)
 
@@ -26,7 +38,7 @@ Hola, I'm Gopi Chowdam</h1>
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **ch.gopi7893@gmail.com**
+- 📫 How to reach me: Check social links below.
 
 - 📄 Know about my experiences [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
 
