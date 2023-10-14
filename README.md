@@ -36,7 +36,7 @@ Hola, I'm Gopi Chowdam</h1>
 📈 Github Stats (Amongst top 50%)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi" /></p>
-
+🔥 Streaks
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
