@@ -12,7 +12,7 @@ Hola, I'm Gopi Chowdam</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- 👩🏻‍💻 Pronouns: he/Him
+- 👩🏻‍💻 Pronouns: he/him
   
 - 💼 I’m currently working as a Frontend Engineer at ....
   
