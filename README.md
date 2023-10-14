@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/346143921370075872/)]
+[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]
 <h1 align="center">
 Hola, I'm Gopi Chowdam</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
