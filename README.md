@@ -10,6 +10,7 @@ Hola, I'm Gopi Chowdam</h1>
 <p align="left"> <a href="https://twitter.com/chgopi7893" target="blank"><img src="https://img.shields.io/twitter/follow/chgopi7893?logo=twitter&style=for-the-badge" alt="chgopi7893" /></a> </p>
 <img align="right" width="398" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ch-gopi" /> 
 👩‍💻 About Me
+
 - 🔭 I’m currently working on [https://bit.ly/GopiResume](MERN Stack)
 
 - 🌱 I’m currently learning **React,springboot**
