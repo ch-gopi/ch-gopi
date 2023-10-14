@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.shutterstock.com/image-illustration/fuull-stack-development-concept-text-sunlight-2047616192)](https://rishavchanda.io)
 <h1 align="center">
 Hola, I'm Gopi Chowdam</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
