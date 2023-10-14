@@ -13,8 +13,6 @@ Hola, I'm Gopi Chowdam</h1>
 <h3 align="left">👩‍💻 About Me</h3>
 
 - 👩🏻‍💻 Pronouns: he/Him
-
-- 🔭 I’m currently working on [https://bit.ly/GopiResume](MERN Stack)
   
 - 💼 I’m currently working as a Frontend Engineer at ....
   
@@ -22,7 +20,7 @@ Hola, I'm Gopi Chowdam</h1>
   
 - 🎒 I've done almost .. internships in frontend primarily.
   
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to           create a Swiggy Clone.
+- 👩🏻‍🏫 I love teaching students and have mentored across ... students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
 
 - 🌱 I’m currently learning **React,springboot**
 
