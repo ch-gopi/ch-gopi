@@ -57,7 +57,7 @@ Hola, I'm Gopi Chowdam</h1>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  width="300" height="150" /></p>
 
 
-
+<br/>
 
 <h3 align="left">☕ Hit Me Up Here</h3>
 
