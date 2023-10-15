@@ -56,7 +56,7 @@ Hola, I'm Gopi Chowdam</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  width="40" height="40" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"  width="40" height="40" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"  width="400" height="400" /></p>
 
 
 <h3 align="left">☕ Hit Me Up Here</h3>
