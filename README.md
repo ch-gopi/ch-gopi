@@ -51,7 +51,6 @@ Hola, I'm Gopi Chowdam</h1>
 <h3 align="left">🔥 Streaks</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
-<br/>
 
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
 
