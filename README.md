@@ -53,8 +53,8 @@ Hola, I'm Gopi Chowdam</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
 
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
-<p>&nbsp;<img align="left" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"  /></p>
-<p><img align="right" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  /></p>
 
 
 <h3 align="left">☕ Hit Me Up Here</h3>
