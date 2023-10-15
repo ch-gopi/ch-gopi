@@ -54,7 +54,7 @@ Hola, I'm Gopi Chowdam</h1>
 
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"  width="400" height="200" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  width="400" height="150" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  width="300" height="150" /></p>
 
 
 
