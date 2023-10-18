@@ -18,7 +18,7 @@ Hola, I'm Gopi Chowdam</h1>
   
 - 📋 I've previously worked as a Software Engineer at ...
   
-- 🎒 I've done almost .. internships in frontend primarily.
+- 🎒 I've done almost ... internships in frontend primarily.
   
 - 🌱 I’m currently learning **React,springboot**
 
