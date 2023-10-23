@@ -22,15 +22,15 @@ Hola, I'm Gopi Chowdam</h1>
   
 - 🌱 I’m currently learning **React,springboot**
 
-- 👯 I’m looking to collaborate on [https://bit.ly/GopiResume](Mern Stack)
+- 👯 I’m looking to collaborate on MERN Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
 
-- 🤝 I’m looking for help with [https://bit.ly/GopiResume](React)
+- 🤝 I’m looking for help with Java Spring,Springboot
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
 
-- 📝 I regularly write articles on [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
+- 📝 I regularly write articles on .......
 
 - 💬 Ask me about **MERN**
 
