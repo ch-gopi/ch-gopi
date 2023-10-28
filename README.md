@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
 
-- 📝 I regularly write articles on .......
+- 📝 I regularly write articles on GeeksforGeeks
 
 - 💬 Ask me about **MERN**
 
@@ -37,9 +37,9 @@
 
 - 📄 Know about my experiences [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
 
-- ⚡ Fun fact **I Love To Code**
+- ⚡ Fun fact **Love To Code**
   
-- 👩🏻‍🏫 I love teaching students and have mentored across ... students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000 students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
 
 
 
