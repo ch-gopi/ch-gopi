@@ -17,7 +17,7 @@
   
 - 📋 I've previously worked as a Software Engineer at ...
   
-- 🎒 I've done almost ... internships in frontend primarily.
+- 🎒 I've done almost 3 internships in frontend primarily.
   
 - 🌱 I’m currently learning **React,springboot**
 
