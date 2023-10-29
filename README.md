@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking for help with Java Spring,Springboot
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repository
 
 - 📝 I regularly write articles on GeeksforGeeks
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: Check social links below.
 
-- 📄 Know about my experiences [https://bit.ly/GopiResume](https://bit.ly/GopiResume)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1OXfh6f9C76d_H_77COxj5ZZETm5qrI1X9o1oeEETAXM/edit#heading=h.slrytqw7edjf" target="_blank" rel="noreferrer"> CV
 
 - ⚡ Fun fact **Love To Code**
   
