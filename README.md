@@ -71,3 +71,4 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chgopi7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chgopi7893" height="30" width="40" /></a>
 
 </p>
+<p align="left"> <img src="https://images.app.goo.gl/FKgRGBAA5eo83xfX6" alt="ch-gopi" /> </p>
