@@ -29,8 +29,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repository
 
-- 📝 I regularly write articles on GeeksforGeeks
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me: Check social links below.
