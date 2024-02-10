@@ -13,9 +13,9 @@
 
 - 👩🏻‍💻 Pronouns: he/him
   
-- 💼 I’m currently working as a Frontend Engineer at ....
+- 💼 I’m currently working as a Software Engineer at ADM
   
-- 📋 I've previously worked as a Software Engineer at ...
+- 📋 I've previously worked as a  Frontend Engineer at Adobe
   
 - 🎒 I've done almost 3 internships in fullstack primarily.
   
