@@ -39,7 +39,7 @@
 
 - ⚡ Fun fact **Love To Code**
   
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000 students over various platforms. One of my videos on youtube has ... views on it, wherein I've taught how to           create a ... Clone.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000 students .
 
 
 
