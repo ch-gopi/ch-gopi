@@ -35,7 +35,7 @@
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1OXfh6f9C76d_H_77COxj5ZZETm5qrI1X9o1oeEETAXM/edit#heading=h.slrytqw7edjf" target="_blank" rel="noreferrer"> CV
 
-- ⚡ Fun fact **Love To Code**
+- ⚡ Fun fact **Love To Cook**
   
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000 students .
 
