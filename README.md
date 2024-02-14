@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking for help with Java Spring,Springboot
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repository
+- 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 
 - 💬 Ask me about **MERN**
 
