@@ -19,13 +19,13 @@
   
 - 🎒 I've done almost 3 internships in fullstack primarily.
   
-- 🌱 I’m currently learning **React,springboot**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on MERN Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
 
-- 🤝 I’m looking for help with Java Spring,Springboot
+- 🤝 I’m looking for help with Java Spring,React
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 
