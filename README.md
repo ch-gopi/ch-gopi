@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on Java and MERN full Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
-
+<p><img align="right" width="400" src="https://media.licdn.com/dms/image/D5622AQEauhobfktMMg/feedshare-shrink_2048_1536/0/1699636450590?e=2147483647&v=beta&t=h5bt9ThEmOszBOaAcY3UEs46QUvlxc9Sggi2fKcJd54" /></p>
 - 🤝 I’m looking for help with React
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
@@ -43,7 +43,7 @@
   
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000 students .
 
-<p><img align="right" width="400" src="https://media.licdn.com/dms/image/D5622AQEauhobfktMMg/feedshare-shrink_2048_1536/0/1699636450590?e=2147483647&v=beta&t=h5bt9ThEmOszBOaAcY3UEs46QUvlxc9Sggi2fKcJd54" /></p>
+
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
