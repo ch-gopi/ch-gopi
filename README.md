@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif)
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-gopi" alt="ch-gopi" /></a> </p>
