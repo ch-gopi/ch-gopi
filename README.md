@@ -1,5 +1,4 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-![MasterHead](https://media.licdn.com/dms/image/D5622AQHuZX1qFpBW8Q/feedshare-shrink_2048_1536/0/1698672993002?e=2147483647&v=beta&t=XWrbHDe1kPA3z4tDQO2hZqVnMH7Qw2NveR3WKnWWNuw)
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
@@ -71,3 +70,4 @@
 
 </p>
 
+<p><img align="center" src="https://media.licdn.com/dms/image/D5622AQHuZX1qFpBW8Q/feedshare-shrink_2048_1536/0/1698672993002?e=2147483647&v=beta&t=XWrbHDe1kPA3z4tDQO2hZqVnMH7Qw2NveR3WKnWWNuw" alt="ch-gopi" /></p>
