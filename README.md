@@ -1,4 +1,5 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
+<p><img align="right" width="200" src="https://media.licdn.com/dms/image/D5622AQEauhobfktMMg/feedshare-shrink_2048_1536/0/1699636450590?e=2147483647&v=beta&t=h5bt9ThEmOszBOaAcY3UEs46QUvlxc9Sggi2fKcJd54" /></p>
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
@@ -67,7 +68,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/gopi7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/gopi7893" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/gopi789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gopi789/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chgopi7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chgopi7893" height="30" width="40" /></a>
-https://media.licdn.com/dms/image/D5622AQHuZX1qFpBW8Q/feedshare-shrink_2048_1536/0/1698672993002?e=2147483647&v=beta&t=XWrbHDe1kPA3z4tDQO2hZqVnMH7Qw2NveR3WKnWWNuw" alt="ch-gopi"
+
 </p>
 
-<p><img align="center" src="https://media.licdn.com/dms/image/D5622AQEauhobfktMMg/feedshare-shrink_2048_1536/0/1699636450590?e=2147483647&v=beta&t=h5bt9ThEmOszBOaAcY3UEs46QUvlxc9Sggi2fKcJd54" /></p>
+
