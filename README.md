@@ -21,7 +21,7 @@
   
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on MERN Stack
+- 👯 I’m looking to collaborate on Java and MERN full Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
 
