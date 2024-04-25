@@ -17,9 +17,9 @@
 
 - 👩🏻‍💻 Pronouns: he/him
   
-- 💼 I’m currently working as a Software Engineer at ADM[TCS]
+- 💼 I’m currently working as a Java developer at Gulf Tainer[TCS]
   
-- 📋 I've previously worked as a  Frontend Engineer at Adobe[TCS]
+- 📋 I've previously worked as a  Frontend Engineer at B.T[TCS]
   
 - 🎒 I've done almost 3 internships in fullstack primarily.
   
@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** && **Java** 
 
 - 📫 How to reach me: Check social links below.
 
