@@ -1,5 +1,5 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-<img align="right" alt="" class="bg lz ne c" width="600" height="205" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*1P9HOcZJSa9HPm6nuslqdA.gif" style="background-color: rgb(204, 232, 207);">
+<img align="right" alt="" class="bg lz ne c" width="500" height="205" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*1P9HOcZJSa9HPm6nuslqdA.gif" style="background-color: rgb(204, 232, 207);">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
