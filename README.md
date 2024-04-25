@@ -1,4 +1,4 @@
-![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif | width="300")
+
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
@@ -25,7 +25,7 @@
   
 - 🧭 I love exploring and working both in frontend and backend.
 
-- 🤝 I’m looking for help with Java Spring,React
+- 🤝 I’m looking for help with React
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 
@@ -48,7 +48,7 @@
 <h3 align="left">🔥 Streaks</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
-
+![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"height="165"/></p>
