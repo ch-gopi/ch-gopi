@@ -69,4 +69,4 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chgopi7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chgopi7893" height="30" width="40" /></a>
 
 </p>
-<p align="left"> <img src="https://en.ryte.com/wiki/img_auth.php/thumb/6/6b/Core_Web_Vitals_list_of_metrics.jpg/600px-Core_Web_Vitals_list_of_metrics.jpg" alt="ch-gopi" /> </p>
+
