@@ -1,5 +1,5 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*1P9HOcZJSa9HPm6nuslqdA.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fvikasrajputin_java-backend-development-will-remain-one-activity-7124657126852939776-hdom&psig=AOvVaw2ps56ZW76EJOVggL5X9Cih&ust=1714096448614000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiK7oeh3IUDFQAAAAAdAAAAABAD)
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
