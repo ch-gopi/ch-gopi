@@ -2,12 +2,12 @@
 <img align="right" alt="" class="bg lz ne c" width="400" height="210" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*1P9HOcZJSa9HPm6nuslqdA.gif" style="background-color: rgb(204, 232, 207);">
 
 <p></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 <hr>
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/chgopi7893" target="blank"><img src="https://img.shields.io/twitter/follow/chgopi7893?logo=twitter&style=for-the-badge" alt="chgopi7893" /></a>
