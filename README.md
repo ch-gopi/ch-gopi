@@ -3,6 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
+<p></p>
 <hr/>
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
