@@ -1,4 +1,5 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
+<img alt="" class="bg lz ne c" width="300" height="295" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*1P9HOcZJSa9HPm6nuslqdA.gif" style="background-color: rgb(204, 232, 207);">
 
 
 
