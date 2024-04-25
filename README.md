@@ -1,4 +1,4 @@
-[!MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
+[!masterhead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
 
 
 
