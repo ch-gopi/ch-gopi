@@ -1,5 +1,5 @@
 
-<img src="https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="height: 106px; margin: 2px 0px; width: 743;" alt="Application Startup" jsname="kn3ccd">
+<img src="https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="height: 106px; margin: 2px 0px; width: "743";" alt="Application Startup" jsname="kn3ccd">
 
 
 
