@@ -1,5 +1,5 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-<img align="right" width="398" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="ch-gopi" />
+<img align="right" width="398" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="ch-gopi" height="130" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 
