@@ -33,7 +33,7 @@
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 - 🤝 I’m looking for help with React
 
-- 💬 Ask me about **Java** && **MERN** 
+- 💬 Ask me about **Java** && **MERN** FullStack
 
 - 📫 How to reach me: Check social links below.
 
