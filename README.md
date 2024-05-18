@@ -19,7 +19,7 @@
   
 - 💼 I’m currently working as a Java developer at Gulf Tainer[TCS]
   
-- 📋 I've previously worked as a  Frontend developer at Adobe[TCS]
+- 📋 I've previously worked as a  Full Stack developer at Adobe[TCS]
   
 - 🎒 I've done almost 3 internships in fullstack primarily.
   
