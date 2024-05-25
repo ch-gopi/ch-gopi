@@ -1,6 +1,6 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-<img align="right" width="398" src="https://media.licdn.com/dms/image/D5622AQHepfJkSAn2Rg/feedshare-shrink_800/0/1716642100379?e=1719446400&v=beta&t=anWXPR_cafmTa4uQ3p60njGag89dSEZLk6p4byfB6WY" alt="ch-gopi" width="120" height="150" />
-//https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif
+<img align="right" width="398" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="ch-gopi" width="120" height="150" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 
 <br/>
@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on Java and MERN full Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
-<p><img align="right" width="400" src="https://media.licdn.com/dms/image/D5622AQEauhobfktMMg/feedshare-shrink_2048_1536/0/1699636450590?e=2147483647&v=beta&t=h5bt9ThEmOszBOaAcY3UEs46QUvlxc9Sggi2fKcJd54" /></p>
+<p><img align="right" width="400" src="https://media.licdn.com/dms/image/D5622AQHepfJkSAn2Rg/feedshare-shrink_800/0/1716642100379?e=1719446400&v=beta&t=anWXPR_cafmTa4uQ3p60njGag89dSEZLk6p4byfB6WY" /></p>
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 - 🤝 I’m looking for help with React
