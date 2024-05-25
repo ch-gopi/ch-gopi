@@ -1,6 +1,6 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
-<img align="right" width="398" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="ch-gopi" width="120" height="150" />
-
+<img align="right" width="398" src="https://media.licdn.com/dms/image/D5622AQHepfJkSAn2Rg/feedshare-shrink_800/0/1716642100379?e=1719446400&v=beta&t=anWXPR_cafmTa4uQ3p60njGag89dSEZLk6p4byfB6WY" alt="ch-gopi" width="120" height="150" />
+//https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 
 <br/>
