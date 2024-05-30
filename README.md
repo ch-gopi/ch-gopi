@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on Java and MERN full Stack
   
 - 🧭 I love exploring and working both in frontend and backend.
-<p><img align="right" width="420" src="https://media.licdn.com/dms/image/D5622AQG1r5YRWrAdCg/feedshare-shrink_2048_1536/0/1716643537220?e=1720051200&v=beta&t=ORRlwUDaMrmr_xLmn4EtDh71yMCv0fzRBFj8oP9EdY0" /></p>
+<p><img align="right" width="398" src="https://media.licdn.com/dms/image/D5622AQG1r5YRWrAdCg/feedshare-shrink_2048_1536/0/1716643537220?e=1720051200&v=beta&t=ORRlwUDaMrmr_xLmn4EtDh71yMCv0fzRBFj8oP9EdY0" /></p>
 
 - 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 - 🤝 I’m looking for help with React
