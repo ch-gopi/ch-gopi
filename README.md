@@ -17,9 +17,7 @@
 
 - 👩🏻‍💻 Pronouns: he/him
   
-- 💼 I’m currently working as a Java developer at Gulf Tainer[TCS]
-  
-- 📋 I've previously worked as a  Full Stack developer at Adobe[TCS]
+- 💼 I’m currently working as a Java developer[TCS]
   
 - 🎒 I've done almost 3 internships in fullstack primarily.
   
