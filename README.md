@@ -51,7 +51,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
 
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-gopi&show_icons=true&locale=en&layout=compact" alt="ch-gopi"  /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-gopi&show_icons=true&locale=en" alt="ch-gopi"height="165"/></p>
 
 
