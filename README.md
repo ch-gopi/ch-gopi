@@ -17,9 +17,7 @@
 
 - 👩🏻‍💻 Pronouns: he/him
   
-- 💼 I’m currently working as a Java developer[TCS]
-  
-- 🎒 I've done almost 3 internships in fullstack primarily.
+- 💼 I’m currently working as a Java FullStack developer
   
 - 🌱 I’m currently learning **React**
 
@@ -48,7 +46,7 @@
 
 <h3 align="left">🔥 Streaks</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-gopi&" alt="ch-gopi" /></p>
 
 <h3 align="left">📈 Github Stats (Amongst top 50%)</h3>
 
