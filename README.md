@@ -12,7 +12,7 @@
 
 <p align="left"> <a href=" https://chipper-queijadas-dfff3b.netlify.app/" target="blank">
 My Website
-</a>
+</a></p> 
  
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-gopi" alt="ch-gopi" /></a> </p> -->
  </p>
