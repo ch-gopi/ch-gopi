@@ -27,15 +27,15 @@
   
 - 🧭 I love exploring and working both in frontend and backend.
 
-- 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
+- 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank"rel="noopener" rel="noreferrer"> Repositories
 - 🤝 I’m looking for help with React
 
 - 💬 Ask me about **Java** && **MERN** FullStack
 
 - 📫 How to reach me: Check social links below.
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1OXfh6f9C76d_H_77COxj5ZZETm5qrI1X9o1oeEETAXM/edit#heading=h.slrytqw7edjf" target="_blank" rel="noreferrer"> CV</a>
-- 🔭 My <a href="https://chgopiwebsite.netlify.app/" target="_blank" rel="noreferrer"> Portfolio Website</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1OXfh6f9C76d_H_77COxj5ZZETm5qrI1X9o1oeEETAXM/edit#heading=h.slrytqw7edjf" target="_blank" rel="noreferrer" rel="noopener"> CV</a>
+- 🔭 My <a href="https://chgopiwebsite.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Portfolio Website</a>
 - ⚡ Fun fact **Love To create**
   
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000 students .
