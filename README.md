@@ -27,7 +27,7 @@
   
 - 🧭 I love exploring and working both in frontend and backend.
 
-- 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank"rel="noopener" rel="noreferrer"> Repositories
+- 👨‍💻 All of my projects are available in <a href="https://github.com/ch-gopi?tab=repositories" target="_blank" rel="noreferrer"> Repositories
 - 🤝 I’m looking for help with React
 
 - 💬 Ask me about **Java** && **MERN** FullStack
