@@ -35,7 +35,7 @@
 - 📫 How to reach me: Check social links below.
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1OXfh6f9C76d_H_77COxj5ZZETm5qrI1X9o1oeEETAXM/edit#heading=h.slrytqw7edjf" target="_blank" rel="noreferrer" rel="noopener"> CV</a>
-- 👩🏻‍🏫  My <a href="https://chgopiwebsite.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Portfolio Website</a>
+- 👋 My <a href="https://chgopiwebsite.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Portfolio Website</a>
 - ⚡ Fun fact **Love To create**
   
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000 students .
