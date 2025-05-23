@@ -21,7 +21,7 @@
   
 - 💼 I’m currently working as a Java FullStack developer
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** && **Angular**
 
 - 👯 I’m looking to collaborate on Java and MERN full Stack
   
