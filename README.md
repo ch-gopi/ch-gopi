@@ -1,10 +1,11 @@
 ![MasterHead](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif )
 <img align="right" width="398" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="ch-gopi" width="120" height="150" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
+
 
 
 <img src="https://www.pngkey.com/png/detail/142-1421633_how-to-determine-size-of-tablespaces-on-oracle.png" alt="How To Determine Size Of Tablespaces On Oracle - Oracle Db@pngkey.com"  width="120" height="150">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 <br/>
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
