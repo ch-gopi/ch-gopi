@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-gopi&label=Profile%20views&color=0e75b6&style=flat" alt="ch-gopi" /> </p>
 
 <br/>
-<img src="https://www.pngkey.com/png/detail/142-1421633_how-to-determine-size-of-tablespaces-on-oracle.png" alt="How To Determine Size Of Tablespaces On Oracle - Oracle Db@pngkey.com">
+<img src="https://www.pngkey.com/png/detail/142-1421633_how-to-determine-size-of-tablespaces-on-oracle.png" alt="How To Determine Size Of Tablespaces On Oracle - Oracle Db@pngkey.com"  width="120" height="150">
 <h1 align="center">Hii, Iam Ch.Gopi   </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
